@@ -1,0 +1,450 @@
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/appsettings.Development.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/appsettings.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/api
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/api.deps.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/api.pdb
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/DnsClient.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/SharpCompress.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Snappier.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/ZstdSharp.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.sourcelink.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets.build.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets.development.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.csproj.CopyComplete
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/refint/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.pdb
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/obj/Debug/net8.0/ref/api.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/appsettings.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.exe
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.deps.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.pdb
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/DnsClient.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Snappier.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.sourcelink.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.CopyComplete
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/refint/api.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.pdb
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/ref/api.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/Renato Ruiz/Desktop/4º Semestre/Tech News/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/appsettings.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.exe
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.deps.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.pdb
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/DnsClient.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Snappier.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.sourcelink.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.Up2Date
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/refint/api.dll
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.pdb
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+C:/Users/claudio/Documents/Projetos VSCode/pmv-ads-2023-2-e4-proj-dad-t2-technews-main/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/ref/api.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/appsettings.json
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/api.exe
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/api.deps.json
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/api.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/api.pdb
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/DnsClient.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/Snappier.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/usuario/Desktop/Tech News/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.sourcelink.json
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.csproj.Up2Date
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.dll
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/refint/api.dll
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.pdb
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+C:/Users/usuario/Desktop/Tech News/src/api/obj/Debug/net8.0/ref/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.sourcelink.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/refint/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.pdb
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/appsettings.Development.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/appsettings.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/api
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/api.deps.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/api.pdb
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/DnsClient.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/SharpCompress.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Snappier.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/ZstdSharp.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets.build.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets.development.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.csproj.CopyComplete
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/obj/Debug/net8.0/ref/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/pedrohbcosta/eixo4/tech-news-v2/src/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/pedrohbcosta/eixo4/tech-news-v1/src/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/appsettings.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.exe
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.deps.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/api.pdb
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/DnsClient.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/SharpCompress.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Snappier.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.sourcelink.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.csproj.Up2Date
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/refint/api.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.pdb
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/obj/Debug/net8.0/ref/api.dll
+C:/Users/paulo/OneDrive/Área de Trabalho/projeto ads eixo 4/pmv-ads-2023-2-e4-proj-dad-t2-technews/src/api/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/usuario/Desktop/Tech news/src/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/appsettings.Development.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/appsettings.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/api
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/api.deps.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/api.runtimeconfig.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/api.pdb
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/AWSSDK.Core.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/DnsClient.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/SharpCompress.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Snappier.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/ZstdSharp.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.sourcelink.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets.build.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets.development.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.csproj.CopyComplete
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/refint/api.dll
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.pdb
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+/home/pedrohbcosta/eixo4/tech-news-v3/src/api/obj/Debug/net8.0/ref/api.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\appsettings.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\api.exe
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\api.deps.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\api.runtimeconfig.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\api.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\api.pdb
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\AWSSDK.Core.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\DnsClient.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\MongoDB.Bson.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\MongoDB.Driver.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\SharpCompress.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Snappier.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.AssemblyInfo.cs
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.sourcelink.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.csproj.CopyComplete
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\refint\api.dll
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.pdb
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\api.genruntimeconfig.cache
+c:\Users\Renato Ruiz\Desktop\Tech News\pmv-ads-2023-2-e4-proj-dad-t2-technews\src\api\obj\Debug\net8.0\ref\api.dll
