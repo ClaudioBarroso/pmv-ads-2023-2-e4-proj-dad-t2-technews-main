@@ -25,7 +25,9 @@ const Header: React.FC = () => {
       <BtnHeader>
       {isLoggedIn ? (
     <>
+       <Button onClick={() => navigate('/User')}>Usuário</Button> {/* ver tela do usuario */}
        <Button onClick={() => navigate('/addNews')}>Adicionar Notícia</Button> {/* Show Add News button if logged in */}
+       <Button onClick={() => navigate('/EditNews')}>Editar Notícia</Button>
        <Button onClick={handleLogout}>Logout</Button> {/* Show Logout button if logged in */}
     </>
       ) : (
